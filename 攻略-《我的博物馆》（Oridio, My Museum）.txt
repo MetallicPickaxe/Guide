@@ -9,15 +9,16 @@
 -限制：
 .金钱 ∈ [0, 999999]
 ·隐藏化石：
--1st个：
-.铜，Maiasaura
-.银，Iguanodon
-.银，Parasaurolophus
-.银，Corythosaurus
+-1st个，Camarasaurus：
+.铜，Maiasaura，2
+.银，Iguanodon，？3
+.银，Parasaurolophus，？3
+.银，Corythosaurus，？3
 -2nd个：
-.铜，Carnotaurus
-.银，Dilophosaurus
-.金，Allosaurus
+.铜，Carnotaurus，2
+.银，Dilophosaurus，？3
+.金，？Spinosaurus
+//？Allosaurus
 .金，Acrocanthosaurus
 -3rd个：
-.金，Quetzalcoatlus
+.金，Quetzalcoatlus，10
