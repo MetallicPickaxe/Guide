@@ -14,11 +14,10 @@
 .银，Iguanodon，？3
 .银，Parasaurolophus，？3
 .银，Corythosaurus，？3
--2nd个：
+-2nd个，Spinosaurus：
+.金，Quetzalcoatlus，10
+-3rd个，Tyrannosaurus Rex：
 .铜，Carnotaurus，2
 .银，Dilophosaurus，？3
-.金，？Spinosaurus
-//？Allosaurus
-.金，Acrocanthosaurus
--3rd个：
-.金，Quetzalcoatlus，10
+.金，Spinosaurus，？4
+.金，Acrocanthosaurus？4
