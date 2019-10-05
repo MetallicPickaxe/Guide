@@ -1,0 +1,35 @@
+
+
+
+
+2019.10.05
+·信息：
+-平台|系统：Windows
+-版本：2.7.4 Preview
+-要求：
+.按回车（Enter）打开对话框进行输入。完成后按回车（Enter）启用并关闭对话框
+.全大写
+.仅收录了有价值的，无价值的未收录
+·秘籍：
+-持续性：
+.JUNK FOOD NIGHT：1000单位食物
+.TROJAN HORSE FOR SALE：1000单位木材
+.ATM OF EREBUS：1000单位黄金
+.MOUNT OLYMPUS：补满神力。一般100单位；？波塞冬200单位
+.DIVINE INTERVENTION：神力可用次数+1
+.PANDORAS BOX：随机获取原版四种神力一次
+.ZENOS PARADOX：随机获取包含泰坦DLC增加的神力的四种神力一次
+.WRATH OF THE GODS：获取陨石、地震、雷电、龙卷四种神力无限次
+.LAY OF THE LAND：：打开地图，但是不打开阴影
+.NINJACONNOR：获取全部10000*4资源+快速建造+无限神力
+//？快速建造不可取消
+//龙的传说DLC新增的
+.THRILL OF VICTORY：立即获胜
+.//龙的传说DLC中已失效
+.L33T SUPA H4X0R：快速建造
+//可取消
+.ISIS HEAR MY PLEA：原版战役英雄
+//死后可原地复活
+.ATLANTIS REBORN：泰坦DLC出场的英雄
+//有几个重复的，其中Amanda成长为了女王
+//？死后可原地复活
