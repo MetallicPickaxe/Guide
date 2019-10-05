@@ -1,2 +1,2 @@
-# Guides, Trainers, Notes
+# Guides or Walkthoughs, Cheat Codes, Notes
  For All Games
