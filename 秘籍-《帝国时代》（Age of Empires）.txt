@@ -1,0 +1,104 @@
+
+
+
+
+2020.05.28
+·信息：
+-平台|系统：Windows
+-版本：原版（含资料片）、定义版（Definitive Edition）
+-要求：
+.按回车（Enter）打开对话框进行输入。完成后按回车（Enter）启用并关闭对话框
+.仅收录了有价值的，无价值的未收录
+·秘籍：
+woodstock
+//1000 wood
+
+pepperoni pizza
+//1000 food
+
+coinage
+//1000 gold
+
+quarry
+//1000 stone
+
+reveal map
+//Reveals the entire map
+
+no fog
+//Removes fog of war
+
+Kill<number>
+// is the player number. (ex kill2 will kill entire player 2's civ & so on)
+
+diediedie
+//Kill all opponents
+
+homerun
+//Win campaign
+
+resign
+//Lose campaign
+
+Bigdaddy
+//Rocket launcher car Winsett's Z car (requires a town center)
+
+bigmomma
+//Winsett's wife Z car (requires a town center)
+
+hari kari
+//Commit suicide
+
+Gaia
+//Control animals (player will lose controller of own units - restart game to regain control)
+
+hoyohoyo
+//Grants priests 600 HP & speeds them up
+
+medusa
+//Villagers get a second chance at life. After being killed they get reincarnated as a black rider once, if killed again, they get reincarnated as a heavy catapult. (this only happens to new villagers not existing ones. Villagers created using this cheat are unable to gather resources. This requires a town center)
+
+Jack be nimble
+//Catapults now fire peasants
+
+Photon man
+//Spawns a laser trooper (requires a town center)
+
+e=mc2 trooper
+//Spawns a Nuke trooper (requires a town center)
+
+pow
+//Spawns a babyprez (requires a town center)
+
+stormbilly
+//Spawns a zug 209 robot (requires a town center)
+
+dark rain
+//Transforms all your bowmen into composite bowmen which then they transform into stealth archers (stealth archers turn into trees while idle)
+
+upsidflintmobile
+//Chariot archers move & fire faster
+
+big Bertha
+//Transforms all stone throwers & catapults into Big Bertha which is stronger
+
+black rider
+//Every horse archer & cavalry archer turns into a black rider
+
+flying Dutchman
+//Transforms catapult trireme & juggernauts into flying Dutchman ships which can move on land
+
+icbm
+//Upgrades the range of ballista's & helepolis to 100
+
+steroids
+//Instant build - effects all players including opponents
+
+convert this!
+//Spawns a St. Francis that summons lightning every 3 seconds (requires a temple)
+
+king Arthur
+//All birds become dragons
+
+grantlinkspence
+//Changes all animals to their alpha versions which are more powerful
